@@ -142,5 +142,5 @@ When in doubt, cut. Less on the page, bigger, clearer.
 
 - The client's own brand board replaces section 3 for their site: their colors, fonts and logo. Local AI Registry's brand is for our own reports, audits and proposals.
 - Everything else here still applies to client sites: headline length, no orphans, readable type, one solid button per screen, fewer labels and chips, motion only to explain.
-- Reference-site feel (layout, hover cards, photo sections) is fine to keep. Cut decorative motion: auto-rotating text, scrolling marquees, slow zooms, word wheels.
+- When the client wants a reference site's movement, keep all of it: word wheels, marquees, slow zooms, rotating lines, scroll fades. The client's choice wins over section 8 on their own site. Section 8 still governs our own reports and explainers.
 - No visible placeholder images, videos or reviews in a preview. Show only the client's real photos and list what is missing in the reply. Unknown text facts (hours, prices, credentials) still get a visible [CONFIRM: ...] label.
